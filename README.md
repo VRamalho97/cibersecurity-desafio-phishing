@@ -21,7 +21,7 @@ Resumo (Passo-a-passo): Configuração da ferramenta setoolkit para construção
    Método de ataque: Credential Harvester Attack Method
    Método de ataque: Site Cloner
    Obtendo o endereço da máquina: ifconfig
-   URL para clone: http://www.facebook.com
+   URL para clone: http://www.instagram.com
    Enviar o IP da maquina para alguém
 
 Detalhamento (Passo-a-passo): Configuração da ferramenta setoolkit para construção do Phishing no Kali Linux: 
